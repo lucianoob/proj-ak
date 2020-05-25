@@ -1,4 +1,4 @@
-# TestAkna - Luciano Borges
+# TestAk - Luciano Borges
 
 Este projeto é referente a um teste usando PHP.
 
@@ -25,13 +25,6 @@ Este script basicamente irá criar o banco de dados (remove se existe) e inserir
 
 - Para executar o primeiro passo proposto no teste basta executar o arquivo 'lista-compras_csv.php', este irá gerar o arquivo 'compra-do-ano.csv'.
 - Para executar o segundo passo proposto no teste basta executar o arquivo 'lista-compras_mysql.php', este irá gravar os dados na tabela 'test_akna' (configurada no install.sh).
-
-## Considerações Finais
-
-Seguem abaixo algumas considerações sobre desenvolvimento do projeto:
-- O teste poderia facilmente ter sido implementado em Laravel mas por se tratar de algo simples optei por utilizar PHP purto, [veja alguns exemplos meus de Laravel](https://github.com/lucianoob?tab=repositories).
-- Foi seguida todas as recomendações de ajustes dos dados (ordem, correção da sintaxe, etc).
-- Foram seguidos padrões de projeto e de escrita de código para este ficasse o mais compacto e reutilizável possível.
 
 ## Escopo do Teste
 
