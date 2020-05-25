@@ -1,4 +1,4 @@
-# TestAk - Luciano Borges
+# TestAk
 
 Este projeto é referente a um teste usando PHP.
 
