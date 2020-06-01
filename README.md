@@ -1,6 +1,6 @@
 # TestAk
 
-Este projeto é referente a um teste usando PHP.
+Este projeto é um teste de conversão de um arquivo de texto em uma planilha.
 
 ## Pré-Requisitos
 
